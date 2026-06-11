@@ -9,8 +9,8 @@ do arquivo.
 -> O sistema deverá verificar se o arquivo ja existe antes de transferir
 o arquivo para uma pasta
 
--> O sistema deverá ter uma pasta que irá conter arquivos com extensões não identificadas.
+-> O sistema deverá ter uma pasta que irá conter arquivos com extensões não identificadas: finalizado
 
--> O sistema deverá permitir que um usuário possa adicionar uma nova extensão.
+-> O sistema deverá permitir que um usuário possa adicionar uma nova extensão: finalizado
 
 
