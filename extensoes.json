@@ -1,0 +1,13 @@
+{
+    ".pdf": "PDF",
+    ".xlsx": "EXCEL",
+    ".exe": "EXE",
+    ".jpg": "JPG",
+    ".png": "PNG",
+    ".pptx": "POWERPOINT",
+    ".docx": "WORD",
+    ".zip": "ZIP",
+    ".txt": "TXT",
+    "nao_identificados": "NAO IDENTIFICADOS",
+    ".circ": "CIRC"
+}
